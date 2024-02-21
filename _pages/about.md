@@ -48,10 +48,12 @@ CET-4 681, CET-6 581</br>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* 2023.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+# 🏆 Honors and Awards
+🏅 Honors
+- *2023.11* 2023.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
+- *2022.11* 2022.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
+- *2021-2023* Pacemaker to Merit Student of ZUEL(top 0.3%), Excellent Student Cadre ，Excellent League Member，Outstanding Volunteer
+🎏 Competitions
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
