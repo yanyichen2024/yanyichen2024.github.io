@@ -25,8 +25,8 @@ I am looking for a master/PhD opportunity starting in 2025, if you are intereste
 # 📖 Educations
 - *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
 - *2018.09 - 2021.06*, Senior Middle School, Hubei Wuchang Experiment School, China. 
--GPA 94.66 / 100, Ranking 1 / 75 (top 1%) 
--CET-4 681, CET-6 581
+- GPA 94.66 / 100, Ranking 1 / 75 (top 1%) 
+- CET-4 681, CET-6 581
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 upcoming...
@@ -49,11 +49,12 @@ I am looking for a master/PhD opportunity starting in 2025, if you are intereste
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Honors and Awards
-🏅 Honors
-- *2023.11* 2023.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2022.11* 2022.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2021-2023* Pacemaker to Merit Student of ZUEL(top 0.3%), Excellent Student Cadre ，Excellent League Member，Outstanding Volunteer
-🎏 Competitions
+## 🏅 Honors
+- *2023.11*  **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2022-2023***Excellent Student Cadre** ，**Excellent League Member**，**Outstanding Volunteer**  *Zhongnan University of Economics and Law*
+- *2022.11*  **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2021-2022* **Pacemaker to Merit Student of ZUEL**(top 0.3%) *Zhongnan University of Economics and Law*
+## 🎏 Competitions
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
