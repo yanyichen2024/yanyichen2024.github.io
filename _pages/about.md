@@ -60,4 +60,4 @@ CET-4 681, CET-6 581</br>
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.01-2024.3*, [清华大学智能产业研究院(AIR)](https://air.tsinghua.edu.cn/), 受[王岩博士（Yan Wang）](https://yanwang202199.github.io/)指导
