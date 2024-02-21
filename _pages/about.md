@@ -20,10 +20,17 @@ redirect_from:
 
 Hi there 👋👋 !
 My name is Yichen Yan (颜易宸), I’m currently a junior undergraduate student at [Zhongnan University of Economics and Law(ZUEL)](https://www.zuel.edu.cn/), pursuing a B.E. degree in Computer Science and Technology.
+I am looking for a master/PhD opportunity starting in 2025, if you are interested in me, please feel free to send an email~
+
+# 📖 Educations
+- *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
+- *2018.09 - 2021.06*, Senior Middle School, Hubei Wuchang Experiment School, China.
+GPA 94.66 / 100, Ranking 1 / 75 (top 1%)
+CET-4 681, CET-6 581
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 
-- *2022.02*: &nbsp;🎉🎉 
+- *2022.02*: &nbsp;🎉🎉 upcoming...
+- *2022.02*: &nbsp;🎉🎉 upcoming...
 
 # 📝 Publications 
 
@@ -42,12 +49,9 @@ My name is Yichen Yan (颜易宸), I’m currently a junior undergraduate studen
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 2023.11 National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
-- *2018.09 - 2021.06*, Senior Middle School, Hubei Wuchang Experiment School, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
