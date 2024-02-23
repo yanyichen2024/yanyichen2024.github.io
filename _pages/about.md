@@ -24,7 +24,6 @@ I am looking for a master/PhD opportunity starting in 2025, if you are intereste
 
 # 📖 Educations
 - *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
-- *2018.09 - 2021.06*, Senior Middle School, Hubei Wuchang Experiment School, China. 
 - GPA 94.66 / 100, Ranking 1 / 75 (top 1%) 
 - CET-4 681, CET-6 581
 
@@ -32,33 +31,24 @@ I am looking for a master/PhD opportunity starting in 2025, if you are intereste
 - *2022.02*: &nbsp;🎉🎉 upcoming...
 - *2022.02*: &nbsp;🎉🎉 upcoming...
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+# 📝 Research Experience
+- *2023.09 - now) *  **国家奖学金** (top 0.2% 国家级) *中华人民共和国教育部*
+- *2023.11*  **国家奖学金** (top 0.2% 国家级) *中华人民共和国教育部*
+- *2023.11*  **国家奖学金** (top 0.2% 国家级) *中华人民共和国教育部*
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2023.11*  **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
-- *2022-2023***Excellent Student Cadre** ，**Excellent League Member**，**Outstanding Volunteer**  *Zhongnan University of Economics and Law*
-- *2022.11*  **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
-- *2021-2022* **Pacemaker to Merit Student of ZUEL**(top 0.3%) *Zhongnan University of Economics and Law*
+- *2023.11*  **国家奖学金** (top 0.2% 国家级) *中华人民共和国教育部*
+- *2022-2023***优秀学生干部** ，**优秀共青团员**，**优秀志愿者**  *ZUEL*
+- *2022.11*  **国家奖学金** (top 0.2% 国家级) *中华人民共和国教育部*
+- *2021-2022* **优秀学生标兵**(top 0.3%) *ZUEL*
 ## 🎏 Competitions
+- *2023.03-2023.08*  **中国大学生计算机设计大赛人工智能赛道国家级三等奖。** (top 0.2% 国家级) *中华人民共和国教育部*
+- *2023.01-2023.07*  **中国大学生服务外包创新创业大赛国家级三等奖** (top 0.2% 国家级) *中华人民共和国教育部*
 
+
+- 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2024.01-2024.3*, [清华大学智能产业研究院(AIR)](https://air.tsinghua.edu.cn/), 受[王岩博士（Yan Wang）](https://yanwang202199.github.io/)指导
