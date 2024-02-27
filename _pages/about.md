@@ -25,7 +25,7 @@ I am looking for a master/PhD opportunity starting in 2025, if you are intereste
 # 📖 Educations
 - *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
 - **GPA 94.66/100, Ranking 1/75 (top 1%)**
-- **CET-4 681, CET-6 581**
+- **CET-4 681, CET-6 593**
 
 # 📝 Research Experience
 - *2023.09 - (now)* &nbsp; **2024年大学生创新创业训练项目预立项**   &nbsp; &nbsp;&nbsp; 基于加权异构学术网络的研究生教育促进代际流动主题演化研究
