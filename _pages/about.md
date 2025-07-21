@@ -32,7 +32,7 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2024.09*  &nbsp; &nbsp;**感恩中国近现代科学家奖学金**   (全校12人)              &nbsp;&nbsp;      *中华人民共和国教育部*
+- *2024.09*  &nbsp; &nbsp;**感恩中国近现代科学家奖学金**   (全校12人)              &nbsp;&nbsp;      *立德树人中心*
 - *2022-2024*  &nbsp; &nbsp;**连续三年国家奖学金**   (top 0.2% 国家级)              &nbsp;&nbsp;      *中华人民共和国教育部*
 - *2024-2025* &nbsp;**校十佳女大学生** , **校青年五四奖章**   &nbsp;&nbsp; *ZUEL*
 - *2022-2023* &nbsp;**优秀学生干部** , **优秀共青团员** , **优秀志愿者**  &nbsp;&nbsp; *ZUEL*
