@@ -47,7 +47,7 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 - *2022.01-2022.8*  &nbsp; **“挑战杯”大学生创业计划竞赛省级银奖**           &nbsp;      元宇宙交互型智能体感终端开拓者
 
 # 💻 Internships
-- *2024.11-2025.05*  &nbsp; 上海巨人网络科技有限公司 , AI实验室算法实习生
+- *2024.11-2025.05*  &nbsp; [上海巨人网络科技有限公司](https://www.ztgame.com/) , AI实验室算法实习生
 - *2024.01 - 2024.03* &nbsp;[清华大学智能产业研究院(AIR)](https://air.tsinghua.edu.cn/), 受[王岩老师（Yan Wang）](https://yanwang202199.github.io/)指导
 - *2022.09 - (now)*  &nbsp; 数据挖掘与智能媒体实验室 , 受[张承德教授](https://xagx.zuel.edu.cn/2016/0918/c7239a202075/page.htm)指导
 - *2021.09 - 2022.08*  &nbsp; 奥卡姆（武汉）科技有限公司 , ZUEL顶尖技术团队，前端工程师
