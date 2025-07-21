@@ -19,10 +19,10 @@ redirect_from:
 
 
 Hi there 👋👋 !
-My name is Yichen Yan (颜易宸), I will join Zhejiang University’s Computer Science Ph.D. program this September, focusing on multimodal large language models. Previously, I earned my B.E. in Computer Science & Technology from [Zhongnan University of Economics and Law(ZUEL)](https://www.zuel.edu.cn/).
+My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https://www.zju.edu.cn/) Computer Science Ph.D. program this September, focusing on multimodal large language models. Previously, I earned my B.E. in Computer Science & Technology from [Zhongnan University of Economics and Law(ZUEL)](https://www.zuel.edu.cn/).
 
 # 📖 Educations
-- *2021.09 - (now)*, Undergraduate, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
+- *2021.09-2025.06*, Zhongnan University of Economics and Law(ZUEL), China, Majoring in Computer Science and Technology.
 - **GPA 94.68/100, Ranking 1/74 (top 1%)**
 - **CET-4 681, CET-6 593**
 
