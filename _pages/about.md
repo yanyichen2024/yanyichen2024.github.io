@@ -28,8 +28,8 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 - **CET-4 681, CET-6 593**
 
 # 📝 Research Experience
-- *2023.09 - (now)* &nbsp; **2024年大学生创新创业训练项目省级结项**   &nbsp; &nbsp;&nbsp; 基于加权异构学术网络的代际流动文献主题演化研究
-- *2022.10 - (now)* &nbsp; **2023年大学生创新创业训练项目国家级立项及优秀结项** &nbsp;基于Transformer自注意力机制的长短期科研兴趣论文推荐研究
+- *2023.09 - 2025.06* &nbsp; **2024年大学生创新创业训练项目省级结项**   &nbsp; &nbsp;&nbsp; 基于加权异构学术网络的代际流动文献主题演化研究
+- *2022.10 - 2024.06* &nbsp; **2023年大学生创新创业训练项目国家级立项及优秀结项** &nbsp;基于Transformer自注意力机制的长短期科研兴趣论文推荐研究
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
@@ -49,7 +49,7 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 # 💻 Internships
 - *2024.11-2025.05*  &nbsp; [上海巨人网络科技有限公司](https://www.ztgame.com/) , AI实验室算法实习生
 - *2024.01 - 2024.03* &nbsp;[清华大学智能产业研究院(AIR)](https://air.tsinghua.edu.cn/), 受[王岩老师（Yan Wang）](https://yanwang202199.github.io/)指导
-- *2022.09 - (now)*  &nbsp; 数据挖掘与智能媒体实验室 , 受[张承德教授](https://xagx.zuel.edu.cn/2016/0918/c7239a202075/page.htm)指导
+- *2022.09 - 2024.06*  &nbsp; 数据挖掘与智能媒体实验室 , 受[张承德教授](https://xagx.zuel.edu.cn/2016/0918/c7239a202075/page.htm)指导
 - *2021.09 - 2022.08*  &nbsp; 奥卡姆（武汉）科技有限公司 , ZUEL顶尖技术团队，前端工程师
   
 # 💬 Others
