@@ -35,7 +35,7 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 ## 🏅 Honors
 - *2024.09*  &nbsp; &nbsp;**感恩中国近现代科学家奖学金**   (全校12人)              &nbsp;&nbsp;      *中华人民共和国教育部*
 - *2022-2024*  &nbsp; &nbsp;**连续三年国家奖学金**   (top 0.2% 国家级)              &nbsp;&nbsp;      *中华人民共和国教育部*
-- *2022-2023* &nbsp;**校十佳女大学生** , **校青年五四奖章**   &nbsp;&nbsp; *ZUEL*
+- *2024-2025* &nbsp;**校十佳女大学生** , **校青年五四奖章**   &nbsp;&nbsp; *ZUEL*
 - *2022-2023* &nbsp;**优秀学生干部** , **优秀共青团员** , **优秀志愿者**  &nbsp;&nbsp; *ZUEL*
 - *2021-2022*&nbsp; **优秀学生标兵** (top 0.3%)                       &nbsp;&nbsp;&nbsp;    *ZUEL*
 ## 🎏 Competitions
@@ -50,7 +50,7 @@ My name is Yichen Yan (颜易宸), I will join [Zhejiang University’s](https:/
 - *2024.11-2025.05*  &nbsp; 上海巨人网络科技有限公司 , AI实验室算法实习生
 - *2024.01 - 2024.03* &nbsp;[清华大学智能产业研究院(AIR)](https://air.tsinghua.edu.cn/), 受[王岩老师（Yan Wang）](https://yanwang202199.github.io/)指导
 - *2022.09 - (now)*  &nbsp; 数据挖掘与智能媒体实验室 , 受[张承德教授](https://xagx.zuel.edu.cn/2016/0918/c7239a202075/page.htm)指导
-- *2021.09 - 2022.08*  &nbsp; 奥卡姆（武汉）科技有限公司 , ZUEL顶尖技术团队，在团队内担任研发岗的前端工程师至今
+- *2021.09 - 2022.08*  &nbsp; 奥卡姆（武汉）科技有限公司 , ZUEL顶尖技术团队，前端工程师
   
 # 💬 Others
 - *2024-2025* **工程之星-深造之星** (学院最高荣誉)
