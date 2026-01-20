@@ -52,7 +52,7 @@ I am Yichen Yan (颜易宸), a first-year Ph.D. student at [ZJU ARClab](http://a
 - *2021-2022* **工程之星-工程新星** 
   
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 upcoming...
-- *2022.02*: &nbsp;🎉🎉 upcoming...
+- 🎉🎉 upcoming...
+
 
 
