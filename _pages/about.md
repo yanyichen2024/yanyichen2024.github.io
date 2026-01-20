@@ -28,7 +28,7 @@ I am Yichen Yan (颜易宸), a first-year Ph.D. student at [ZJU ARClab](http://a
 
 # 📝 Research Experience
 - **Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenario**   &nbsp; &nbsp;&nbsp; EMNLP Findings 2025
-- **Fine-grained and multi-pattern anti-nuclear antibody recognition based on deep neural networks**   &nbsp; &nbsp;&nbsp; Medical Image Analysis（JCR Q1），学生一作，大修中
+- **Fine-grained and multi-pattern anti-nuclear antibody recognition based on deep neural networks**   &nbsp; &nbsp;&nbsp; Medical Image Analysis（SCI,JCR 1区），学生一作，大修中
 - **一种基于深度神经网络的细粒度多模式抗核抗体自动识别方法**   &nbsp; &nbsp;&nbsp; 专利（待审）
 - *2023.09 - 2025.06* &nbsp; **2024年大学生创新创业训练项目省级结项**   &nbsp; &nbsp;&nbsp; 基于加权异构学术网络的代际流动文献主题演化研究（负责人）
 - *2022.10 - 2024.06* &nbsp; **2023年大学生创新创业训练项目国家级立项及优秀结项** &nbsp;基于Transformer自注意力机制的长短期科研兴趣论文推荐研究
