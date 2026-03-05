@@ -18,7 +18,7 @@ redirect_from:
 
 
 Hi there 👋👋 !
-I am Yichen Yan (颜易宸), a first-year Ph.D. student at [ZJU ARClab](http://arc.zju.edu.cn/), [Zhejiang University(since Sept. 2025)](https://www.zju.edu.cn/), supervised by [Prof.Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi/) and [Prof.Zonghui Wang](https://person.zju.edu.cn/zhwang/). Previously, I earned my B.E. in Computer Science & Technology from [Zhongnan University of Economics and Law(ZUEL)](https://www.zuel.edu.cn/). I'm interested in Embodied AI Safty and Multimodal Large Language Models（MLLMs).
+I am Yichen Yan (颜易宸), a first-year Ph.D. student at [ZJU ARClab](http://arc.zju.edu.cn/), [Zhejiang University(since Sept. 2025)](https://www.zju.edu.cn/), supervised by [Prof.Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi/) and [Prof.Zonghui Wang](https://person.zju.edu.cn/zhwang/). Previously, I earned my B.E. in Computer Science & Technology from [Zhongnan University of Economics and Law(ZUEL)](https://www.zuel.edu.cn/). I'm interested in Embodied AI Safety and Multimodal Large Language Models（MLLMs).
 
 # 📖 Educations
 - *2025.09-now*, Zhejiang University(ZJU), China.
@@ -29,7 +29,7 @@ I am Yichen Yan (颜易宸), a first-year Ph.D. student at [ZJU ARClab](http://a
 # 📝 Research Experience
 - **Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenario**   &nbsp; &nbsp;&nbsp; EMNLP Findings 2025
 - **Fine-grained and multi-pattern anti-nuclear antibody recognition based on deep neural networks**   &nbsp; &nbsp;&nbsp; Medical Image Analysis（SCI,JCR 1区），学生一作，大修中
-- **一种基于深度神经网络的细粒度多模式抗核抗体自动识别方法**   &nbsp; &nbsp;&nbsp; 专利（待审）
+- **一种基于深度神经网络的细粒度多模式抗核抗体自动识别方法**   &nbsp; &nbsp;&nbsp; 专利（待审），学生一作
 - *2023.09 - 2025.06* &nbsp; **2024年大学生创新创业训练项目省级结项**   &nbsp; &nbsp;&nbsp; 基于加权异构学术网络的代际流动文献主题演化研究（负责人）
 - *2022.10 - 2024.06* &nbsp; **2023年大学生创新创业训练项目国家级立项及优秀结项** &nbsp;基于Transformer自注意力机制的长短期科研兴趣论文推荐研究
 
